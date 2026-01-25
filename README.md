@@ -10,19 +10,13 @@ This repository contains my **Machine Learning and Deep Learning projects** crea
 - **Decision Tree** – Classification & Regression trees
 - **Naive Bayes** – Probabilistic ML algorithms
 - **Unsupervised Learning** – Clustering techniques
-- **Deep Learning (DL)** – Neural Networks & DL models
-- **NLP** – Text processing & NLP models
-- **Speech Recognition** – Voice & audio-based projects
-- **Mediapipe** – Hand tracking & vision utilities
 - **Exam / Study / Practice** – Notes and practice code
 
 ## 🛠 Technologies Used
 
 - Python 🐍  
 - NumPy, Pandas  
-- Scikit-learn  
-- OpenCV  
-- TensorFlow / Keras  
+- Scikit-learn   
 - Jupyter Notebook  
 
 ## 🎯 Purpose
